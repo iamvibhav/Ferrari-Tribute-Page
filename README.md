@@ -7,7 +7,7 @@ Gallery featuring Ferrari cars and historical moments.
 Interactive elements powered by JavaScript.
 Responsive design for optimal viewing on all devices.
 ## Demo
-Explore the live demo here. [Ferrari](https://iamvibhav.github.io/OIBSIP_Tribute-Page/)
+Explore the live demo here. [Ferrari](https://iamvibhav.github.io/Ferrari-Tribute-Page/)
 
 ## Technologies Used
 HTML
